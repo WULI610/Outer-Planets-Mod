@@ -21,6 +21,7 @@ install:
 depends:
   - name: ModuleManager
   - name: Kopernicus
+    min_version: 2:release-1.12.1-232
   - name: CommunityTerrainTexturePack
 conflicts:
   - name: RealSolarSystem

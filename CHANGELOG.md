@@ -2,6 +2,7 @@
 
 ### Outer Planets Mod v2.2.12
 
+- Compiled textures into single assetbundle to leverage KSP Texture Loader functionality. New dependency of KSP Texture Loader (Kopernicus now requires it anyhow...)
 - Fixed Research Bodies celestial body values for easy, normal, medium and hard settings, to align with core Research Bodies design strategy.
 
 ### Outer Planets Mod v2.2.11

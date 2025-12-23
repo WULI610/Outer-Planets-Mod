@@ -1,4 +1,4 @@
-# Outer Planets Mod v2.2.11
+# Outer Planets Mod v2.2.12
 
 This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.12.*.
 
@@ -35,6 +35,7 @@ Extract the GameData folder found in the downloadable .zip directly into your Ke
 The following KSP mods must be installed prior to using Outer Planets Mod (ensure you install the correct version of the dependencies for your version of KSP):
 
 * Kopernicus - https://github.com/Kopernicus/Kopernicus/releases (depending on KSP game version)
+* KSP Texture Loader - https://github.com/Phantomical/KSPTextureLoader/releases (dependency of Kopernicus as of 2:release-1.12.1-232)
 * Module Manager - https://forum.kerbalspaceprogram.com/index.php?/topic/50533-1
 * Community Terrain Texture Pack - bundled within OPM
 
@@ -48,9 +49,10 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.11
+v2.2.12
 
-* Fixed vertical orientation of Nissee colour and biome maps.
+* Compiled textures into single assetbundle to leverage KSP Texture Loader functionality. New dependency of KSP Texture Loader (Kopernicus now requires it anyhow...)
+* Fixed Research Bodies celestial body values for easy, normal, medium and hard settings, to align with core Research Bodies design strategy.
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 
